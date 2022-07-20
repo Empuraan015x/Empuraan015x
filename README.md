@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Empuraan015x
 - 👀 I’m interested in ...Web develpoment,Python Development,Database Management
-- 🌱 I’m currently learning ...Web designing
-- 💞️ I’m looking to collaborate on ...Python Development
+- 🌱 I’m currently learning ..Web development
+- 💞️ I’m looking to collaborate on ...Web Development
 - 📫 How to reach me ...mail on adithyams64203@gmail.com
 
 <!---
